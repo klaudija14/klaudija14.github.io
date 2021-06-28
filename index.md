@@ -4,7 +4,7 @@
 
 ### My games 
 
-[Ru(i)n The World]
+[Ru(i)n The World](https://thedynamitepriest.itch.io/ruin-the-world)
 <img src="images/Ruin the world game.jpg"/>
 <img src="images/ruin the world game (2).jpg"/>
 <br>
@@ -12,11 +12,15 @@ Ru(i)n the world is endless run game. It was made in two weeks on six-month Unit
 Game was made on Game jam, theme was "Save yourself, not the world". I was the team lead for this project.
 
 <br>
-[Endless Maze Runner](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Endless Maze Runner](https://klaudija34.itch.io/endless-maze-runner/)
+<img src="images/endless maze game.jpg"/>
+<img src="images/endless maze runner.png"/>
+<img src="images/ruin the world game (2).jpg"/>
+<br>
+Endless Maze Runner is endless maze type of game with multiplayer option. . Player is trapped in a maze with similar rooms. Only diffference between rooms is number of doors. Subway with opening doors lead to a different room. Map is crucial to orientate through game where you put a mark of room where you are currently so you can orientate. Goal of the game is to collect five torches with matching colors and bring them to altars with same colors. Game was made on Game jam, theme was "A Map Will Be Useful". Project was made in two weeks.
 
 ---
-[Project 3 Title](http://example.com/)
+[Castle War]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
