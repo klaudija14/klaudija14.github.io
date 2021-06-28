@@ -6,7 +6,8 @@
 
 [Ru(i)n The World](/sample_page)
 <img src="images/Ruin the world game.jpg"/>
-
+<img src="ruin the world game (2).jpg"/>
+Ru(i)n the world is endless run game. 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
