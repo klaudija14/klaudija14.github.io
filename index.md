@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### My games 
 
 [Ru(i)n The World](/sample_page)
-<img src="Ruin the world game.jpg"/>
+<img src="images/Ruin the world game.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
