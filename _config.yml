@@ -3,17 +3,28 @@ logo: "/images/eae8718f-b856-4e20-beaa-8f750f240973.jpg?raw=true" # your photo (
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   Date of birth: 03.04.2002.
+  <br>
   Age: 19
+  <br>
   Location: Novska, Croatia
+  <br>
   C# programmer
+  <br>
+  <br>
   
   Second description 
   -> Unity
+  <br>
   -> Sweet home 3D
+  <br>
   -> Canva
+  <br>
   -> Make human
+  <br>
   -> Fuse
+  <br>
   -> Mixamo
+  <br>
   
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
