@@ -4,7 +4,7 @@
 
 ### My games 
 
-[Ru(i)n The World](/<pre>)
+[Ru(i)n The World]
 <img src="images/Ruin the world game.jpg"/>
 <img src="images/ruin the world game (2).jpg"/>
 <br>
