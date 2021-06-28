@@ -2,9 +2,19 @@ title: Klaudija Kaurin # your name (or website title) here
 logo: "/images/eae8718f-b856-4e20-beaa-8f750f240973.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  Date of birth: 03.04.2002.
+  Age: 19
+  Location: Novska, Croatia
+  C# programmer
+  
   Second description 
-  <br><br>
+  -> Unity
+  -> Sweet home 3D
+  -> Canva
+  -> Make human
+  -> Fuse
+  -> Mixamo
+  
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
